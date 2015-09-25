@@ -1,0 +1,1 @@
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 3\Homework\RestaurantManager\RestaurantManager.UWindows\RestaurantManager.UWindows.csproj;x86

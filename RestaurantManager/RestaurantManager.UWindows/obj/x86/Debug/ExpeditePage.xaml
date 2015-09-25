@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="RestaurantManager.UWindows.ExpeditePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RestaurantManager.UWindows"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.TopAppBar>
+        <AppBar x:ConnectionId='1' x:Name="AppBarTop" Background="#FF060000" Width="Auto" Foreground="#FFF9EEEE" VerticalAlignment="Stretch" IsOpen="True">
+            <AppBarButton x:ConnectionId='2' x:Name="appBarButton" HorizontalAlignment="Left" Icon="Home" Label="Home" Foreground="#FFFCFCFC" RequestedTheme="Dark"                                   />
+        </AppBar>
+    </Page.TopAppBar>
+
+    <Grid Background="#FF0D0000">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="79*"/>
+            <RowDefinition Height="17*"/>
+        </Grid.RowDefinitions>
+        <GridView x:ConnectionId='3' x:Name="gridView" Margin="61,102,114,0" VerticalAlignment="Top" Height="388" Background="#FFF4E4E4" Header="GridView ready here...."/>
+        <Button x:ConnectionId='4' x:Name="btnClearAllOrders" Content="Clear all orders" HorizontalAlignment="Left" Margin="356,10,0,0" VerticalAlignment="Top" Width="263" Foreground="#FFF6F1F1" Grid.Row="1" Background="#33F3F5CC"/>
+
+    </Grid>
+</Page>
+
