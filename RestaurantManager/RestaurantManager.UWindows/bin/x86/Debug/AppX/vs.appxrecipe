@@ -22,7 +22,7 @@
     <AppXManifest Include="C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs %28DEV206.1x%29\Modul 3\Homework\RestaurantManager\RestaurantManager.UWindows\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-09-25T07:02:01.483</Modified>
+      <Modified>2015-09-25T10:18:04.701</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -66,7 +66,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs %28DEV206.1x%29\Modul 3\Homework\RestaurantManager\RestaurantManager.UWindows\bin\x86\Debug\Core\entrypoint\RestaurantManager.UWindows.exe">
       <PackagePath>entrypoint\RestaurantManager.UWindows.exe</PackagePath>
-      <Modified>2015-09-25T07:01:58.689</Modified>
+      <Modified>2015-09-25T10:18:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs %28DEV206.1x%29\Modul 3\Homework\RestaurantManager\RestaurantManager.UWindows\bin\x86\Debug\Core\LargeSquareLogo.png">
       <PackagePath>LargeSquareLogo.png</PackagePath>
@@ -90,11 +90,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs %28DEV206.1x%29\Modul 3\Homework\RestaurantManager\RestaurantManager.UWindows\bin\x86\Debug\Core\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-09-25T07:02:00.012</Modified>
+      <Modified>2015-09-25T10:18:03.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs %28DEV206.1x%29\Modul 3\Homework\RestaurantManager\RestaurantManager.UWindows\bin\x86\Debug\Core\RestaurantManager.UWindows.exe">
       <PackagePath>RestaurantManager.UWindows.exe</PackagePath>
-      <Modified>2015-09-25T07:02:01.476</Modified>
+      <Modified>2015-09-25T10:18:04.697</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs %28DEV206.1x%29\Modul 3\Homework\RestaurantManager\RestaurantManager.UWindows\bin\x86\Debug\Core\RestaurantManager.UWindows.xr.xml">
       <PackagePath>RestaurantManager.UWindows.xr.xml</PackagePath>
