@@ -132,21 +132,33 @@ namespace RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[6];
-            _typeNameTable[0] = "RestaurantManager.UWindows.ExpeditePage";
-            _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
-            _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
-            _typeNameTable[3] = "RestaurantManager.UWindows.MainPage";
-            _typeNameTable[4] = "RestaurantManager.UWindows.OrderPage2";
-            _typeNameTable[5] = "RestaurantManager.UWindows.SplashScreen";
+            _typeNameTable = new string[12];
+            _typeNameTable[0] = "RestaurantManager.Models.DataManager";
+            _typeNameTable[1] = "Object";
+            _typeNameTable[2] = "System.Collections.ObjectModel.ObservableCollection`1<String>";
+            _typeNameTable[3] = "System.Collections.ObjectModel.Collection`1<String>";
+            _typeNameTable[4] = "String";
+            _typeNameTable[5] = "System.Collections.Generic.List`1<String>";
+            _typeNameTable[6] = "RestaurantManager.UWindows.ExpeditePage";
+            _typeNameTable[7] = "Windows.UI.Xaml.Controls.Page";
+            _typeNameTable[8] = "Windows.UI.Xaml.Controls.UserControl";
+            _typeNameTable[9] = "RestaurantManager.UWindows.MainPage";
+            _typeNameTable[10] = "RestaurantManager.UWindows.OrderPage2";
+            _typeNameTable[11] = "RestaurantManager.UWindows.SplashScreen";
 
-            _typeTable = new global::System.Type[6];
-            _typeTable[0] = typeof(global::RestaurantManager.UWindows.ExpeditePage);
-            _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
-            _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[3] = typeof(global::RestaurantManager.UWindows.MainPage);
-            _typeTable[4] = typeof(global::RestaurantManager.UWindows.OrderPage2);
-            _typeTable[5] = typeof(global::RestaurantManager.UWindows.SplashScreen);
+            _typeTable = new global::System.Type[12];
+            _typeTable[0] = typeof(global::RestaurantManager.Models.DataManager);
+            _typeTable[1] = typeof(global::System.Object);
+            _typeTable[2] = typeof(global::System.Collections.ObjectModel.ObservableCollection<global::System.String>);
+            _typeTable[3] = typeof(global::System.Collections.ObjectModel.Collection<global::System.String>);
+            _typeTable[4] = typeof(global::System.String);
+            _typeTable[5] = typeof(global::System.Collections.Generic.List<global::System.String>);
+            _typeTable[6] = typeof(global::RestaurantManager.UWindows.ExpeditePage);
+            _typeTable[7] = typeof(global::Windows.UI.Xaml.Controls.Page);
+            _typeTable[8] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
+            _typeTable[9] = typeof(global::RestaurantManager.UWindows.MainPage);
+            _typeTable[10] = typeof(global::RestaurantManager.UWindows.OrderPage2);
+            _typeTable[11] = typeof(global::RestaurantManager.UWindows.SplashScreen);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -181,10 +193,32 @@ namespace RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo
             return -1;
         }
 
-        private object Activate_0_ExpeditePage() { return new global::RestaurantManager.UWindows.ExpeditePage(); }
-        private object Activate_3_MainPage() { return new global::RestaurantManager.UWindows.MainPage(); }
-        private object Activate_4_OrderPage2() { return new global::RestaurantManager.UWindows.OrderPage2(); }
-        private object Activate_5_SplashScreen() { return new global::RestaurantManager.UWindows.SplashScreen(); }
+        private object Activate_0_DataManager() { return new global::RestaurantManager.Models.DataManager(); }
+        private object Activate_2_ObservableCollection() { return new global::System.Collections.ObjectModel.ObservableCollection<global::System.String>(); }
+        private object Activate_3_Collection() { return new global::System.Collections.ObjectModel.Collection<global::System.String>(); }
+        private object Activate_5_List() { return new global::System.Collections.Generic.List<global::System.String>(); }
+        private object Activate_6_ExpeditePage() { return new global::RestaurantManager.UWindows.ExpeditePage(); }
+        private object Activate_9_MainPage() { return new global::RestaurantManager.UWindows.MainPage(); }
+        private object Activate_10_OrderPage2() { return new global::RestaurantManager.UWindows.OrderPage2(); }
+        private object Activate_11_SplashScreen() { return new global::RestaurantManager.UWindows.SplashScreen(); }
+        private void VectorAdd_2_ObservableCollection(object instance, object item)
+        {
+            var collection = (global::System.Collections.Generic.ICollection<global::System.String>)instance;
+            var newItem = (global::System.String)item;
+            collection.Add(newItem);
+        }
+        private void VectorAdd_3_Collection(object instance, object item)
+        {
+            var collection = (global::System.Collections.Generic.ICollection<global::System.String>)instance;
+            var newItem = (global::System.String)item;
+            collection.Add(newItem);
+        }
+        private void VectorAdd_5_List(object instance, object item)
+        {
+            var collection = (global::System.Collections.Generic.ICollection<global::System.String>)instance;
+            var newItem = (global::System.String)item;
+            collection.Add(newItem);
+        }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -196,38 +230,76 @@ namespace RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo
             switch (typeIndex)
             {
 
-            case 0:   //  RestaurantManager.UWindows.ExpeditePage
-                userType = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_0_ExpeditePage;
-                userType.SetIsLocalType();
+            case 0:   //  RestaurantManager.Models.DataManager
+                userType = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType.Activator = Activate_0_DataManager;
+                userType.AddMemberName("OrderItems");
+                userType.AddMemberName("MenuItems");
+                userType.AddMemberName("CurrentlySelectedMenuItems");
                 xamlType = userType;
                 break;
 
-            case 1:   //  Windows.UI.Xaml.Controls.Page
+            case 1:   //  Object
                 xamlType = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 2:   //  Windows.UI.Xaml.Controls.UserControl
+            case 2:   //  System.Collections.ObjectModel.ObservableCollection`1<String>
+                userType = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.Collections.ObjectModel.Collection`1<String>"));
+                userType.CollectionAdd = VectorAdd_2_ObservableCollection;
+                userType.SetIsReturnTypeStub();
+                xamlType = userType;
+                break;
+
+            case 3:   //  System.Collections.ObjectModel.Collection`1<String>
+                userType = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType.Activator = Activate_3_Collection;
+                userType.CollectionAdd = VectorAdd_3_Collection;
+                xamlType = userType;
+                break;
+
+            case 4:   //  String
                 xamlType = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 3:   //  RestaurantManager.UWindows.MainPage
+            case 5:   //  System.Collections.Generic.List`1<String>
+                userType = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType.CollectionAdd = VectorAdd_5_List;
+                userType.SetIsReturnTypeStub();
+                xamlType = userType;
+                break;
+
+            case 6:   //  RestaurantManager.UWindows.ExpeditePage
                 userType = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_3_MainPage;
+                userType.Activator = Activate_6_ExpeditePage;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 4:   //  RestaurantManager.UWindows.OrderPage2
+            case 7:   //  Windows.UI.Xaml.Controls.Page
+                xamlType = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 8:   //  Windows.UI.Xaml.Controls.UserControl
+                xamlType = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
+                break;
+
+            case 9:   //  RestaurantManager.UWindows.MainPage
                 userType = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_4_OrderPage2;
+                userType.Activator = Activate_9_MainPage;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 5:   //  RestaurantManager.UWindows.SplashScreen
+            case 10:   //  RestaurantManager.UWindows.OrderPage2
                 userType = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_5_SplashScreen;
+                userType.Activator = Activate_10_OrderPage2;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 11:   //  RestaurantManager.UWindows.SplashScreen
+                userType = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_11_SplashScreen;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -236,11 +308,63 @@ namespace RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo
         }
 
 
+        private object get_0_DataManager_OrderItems(object instance)
+        {
+            var that = (global::RestaurantManager.Models.DataManager)instance;
+            return that.OrderItems;
+        }
+        private void set_0_DataManager_OrderItems(object instance, object Value)
+        {
+            var that = (global::RestaurantManager.Models.DataManager)instance;
+            that.OrderItems = (global::System.Collections.ObjectModel.ObservableCollection<global::System.String>)Value;
+        }
+        private object get_1_DataManager_MenuItems(object instance)
+        {
+            var that = (global::RestaurantManager.Models.DataManager)instance;
+            return that.MenuItems;
+        }
+        private void set_1_DataManager_MenuItems(object instance, object Value)
+        {
+            var that = (global::RestaurantManager.Models.DataManager)instance;
+            that.MenuItems = (global::System.Collections.Generic.List<global::System.String>)Value;
+        }
+        private object get_2_DataManager_CurrentlySelectedMenuItems(object instance)
+        {
+            var that = (global::RestaurantManager.Models.DataManager)instance;
+            return that.CurrentlySelectedMenuItems;
+        }
+        private void set_2_DataManager_CurrentlySelectedMenuItems(object instance, object Value)
+        {
+            var that = (global::RestaurantManager.Models.DataManager)instance;
+            that.CurrentlySelectedMenuItems = (global::System.Collections.Generic.List<global::System.String>)Value;
+        }
 
         private global::Windows.UI.Xaml.Markup.IXamlMember CreateXamlMember(string longMemberName)
         {
             global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlMember xamlMember = null;
-            // No Local Properties
+            global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlUserType userType;
+
+            switch (longMemberName)
+            {
+            case "RestaurantManager.Models.DataManager.OrderItems":
+                userType = (global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("RestaurantManager.Models.DataManager");
+                xamlMember = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlMember(this, "OrderItems", "System.Collections.ObjectModel.ObservableCollection`1<String>");
+                xamlMember.Getter = get_0_DataManager_OrderItems;
+                xamlMember.Setter = set_0_DataManager_OrderItems;
+                break;
+            case "RestaurantManager.Models.DataManager.MenuItems":
+                userType = (global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("RestaurantManager.Models.DataManager");
+                xamlMember = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlMember(this, "MenuItems", "System.Collections.Generic.List`1<String>");
+                xamlMember.Getter = get_1_DataManager_MenuItems;
+                xamlMember.Setter = set_1_DataManager_MenuItems;
+                break;
+            case "RestaurantManager.Models.DataManager.CurrentlySelectedMenuItems":
+                userType = (global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("RestaurantManager.Models.DataManager");
+                xamlMember = new global::RestaurantManager.UWindows.RestaurantManager_UWindows_XamlTypeInfo.XamlMember(this, "CurrentlySelectedMenuItems", "System.Collections.Generic.List`1<String>");
+                xamlMember.Getter = get_2_DataManager_CurrentlySelectedMenuItems;
+                xamlMember.Setter = set_2_DataManager_CurrentlySelectedMenuItems;
+                break;
+            }
             return xamlMember;
         }
     }

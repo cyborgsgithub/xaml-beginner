@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Roots >
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="OrderItems" />
+    <RootPropertyPathName Name="CurrentlySelectedMenuItems" />
+    <RootPropertyPathName Name="MenuItems" />
+  </Roots.PropertyPathNames>
   <Roots.RootTypes>
     <RootType FullName="Windows.UI.Xaml.Application">
       <RootProperty Name="RequestedTheme" />
@@ -30,6 +35,7 @@
       <RootProperty Name="Height" />
       <RootProperty Name="VerticalAlignment" />
     </RootType>
+    <RootType FullName="RestaurantManager.Models.DataManager" />
     <RootType FullName="Windows.UI.Xaml.Setter">
       <RootProperty Name="Property" />
       <RootProperty Name="Value" />
@@ -72,12 +78,17 @@
       <RootProperty Name="Height" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.GridView">
+      <RootProperty Name="ItemsSource" />
       <RootProperty Name="Margin" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Height" />
       <RootProperty Name="Background" />
       <RootProperty Name="Header" />
     </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.Binding">
+      <RootProperty Name="Source" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
     <RootType FullName="RestaurantManager.UWindows.ExpeditePage" />
     <RootType FullName="Windows.UI.Xaml.Controls.Image">
       <RootProperty Name="HorizontalAlignment" />
@@ -92,6 +103,7 @@
     </RootType>
     <RootType FullName="RestaurantManager.UWindows.MainPage" />
     <RootType FullName="Windows.UI.Xaml.Controls.ListView">
+      <RootProperty Name="ItemsSource" />
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="Height" />
       <RootProperty Name="Margin" />

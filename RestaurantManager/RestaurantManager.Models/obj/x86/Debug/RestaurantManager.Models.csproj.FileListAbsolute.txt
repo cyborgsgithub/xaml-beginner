@@ -1,0 +1,118 @@
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.dll
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pri
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.dll
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\priconfig.xml
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\layout.resfiles
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\resources.resfiles
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\pri.resfiles
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.dll
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pri
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.dll
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\obj\x86\Debug\priconfig.xml
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\obj\x86\Debug\layout.resfiles
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\obj\x86\Debug\resources.resfiles
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\obj\x86\Debug\pri.resfiles
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy\RestaurantManager.Models\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.dll
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pri
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.dll
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\obj\x86\Debug\priconfig.xml
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\obj\x86\Debug\layout.resfiles
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\obj\x86\Debug\resources.resfiles
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\obj\x86\Debug\pri.resfiles
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – workingcopy3\RestaurantManager.Models\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.dll
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pri
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.dll
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\obj\x86\Debug\priconfig.xml
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\obj\x86\Debug\layout.resfiles
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\obj\x86\Debug\resources.resfiles
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\obj\x86\Debug\pri.resfiles
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – Working\RestaurantManager.Models\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.dll
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pri
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.dll
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\priconfig.xml
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\layout.resfiles
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\resources.resfiles
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\pri.resfiles
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\cyborgx\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.dll
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pri
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.dll
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\priconfig.xml
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\layout.resfiles
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\resources.resfiles
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\pri.resfiles
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\RestaurantManager – LEVER DENNE\RestaurantManager.Models\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.dll
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\bin\x86\Debug\RestaurantManager.Models.pri
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.dll
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\RestaurantManager.Models.pdb
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\priconfig.xml
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\layout.resfiles
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\resources.resfiles
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\pri.resfiles
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\teoksum\Dropbox\Privat\Programmering\C_sharp\XAML-intro kurs (DEV206.1x)\Modul 4\Homework\Levert versjon\RestaurantManager\RestaurantManager.Models\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

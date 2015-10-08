@@ -5,6 +5,7 @@
     xmlns:local="using:RestaurantManager.UWindows"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:models="using:RestaurantManager.Models"
     mc:Ignorable="d">
     <Page.TopAppBar>
         <AppBar x:Name="AppBarTop" Background="#FF060000" Width="Auto" Foreground="#FFF9EEEE" VerticalAlignment="Stretch" IsOpen="True">
@@ -12,12 +13,19 @@
         </AppBar>
     </Page.TopAppBar>
 
+    <!--Hvordan unngå å gjenta denne på hver side?-->
+    <!-- <Page.DataContext>
+        <models:DataManager/>
+    </Page.DataContext>-->
+
     <Grid Background="#FF0D0000">
+        
         <Grid.RowDefinitions>
             <RowDefinition Height="79*"/>
             <RowDefinition Height="17*"/>
         </Grid.RowDefinitions>
-        <GridView x:Name="gridView" Margin="61,102,114,0" VerticalAlignment="Top" Height="388" Background="#FFF4E4E4" Header="GridView ready here...."/>
+        <GridView x:Name="gridView" ItemsSource="{Binding OrderItems, Source={StaticResource globalsource}}" Margin="61,102,114,0" VerticalAlignment="Top" Height="388" Background="#FFF4E4E4" Header=""/>
+        <!--Above: Binding itemssource to the properties from DataManager-class, referencing to the key globalsource as a static resource-->
         <Button x:Name="btnClearAllOrders" Content="Clear all orders" HorizontalAlignment="Left" Margin="356,10,0,0" VerticalAlignment="Top" Width="263" Foreground="#FFF6F1F1" Grid.Row="1" Background="#33F3F5CC"/>
 
     </Grid>

@@ -25,9 +25,9 @@
         <TextBlock x:ConnectionId='4' x:Name="textBlock1" Grid.Column="2" Margin="20,87,114,0" TextWrapping="Wrap" Text="Order items:" VerticalAlignment="Top" Foreground="#FFF6F2F2" Height="43"/>
         <Button x:ConnectionId='5' x:Name="button" Content="Add to order" HorizontalAlignment="Left" Margin="40,25,0,0" Grid.Row="1" VerticalAlignment="Top" Width="260" Background="#33FFF7F7" Foreground="#FFF7F0F0" Height="55"/>
         <Button x:ConnectionId='6' x:Name="button_Copy" Content="Submit order" HorizontalAlignment="Left" Margin="235,25,0,0" Grid.Row="1" VerticalAlignment="Top" Width="260" Background="#33FFF7F7" Foreground="#FFF7F0F0" Grid.Column="1" Height="55" Grid.ColumnSpan="2"/>
-        <ListView x:ConnectionId='7' x:Name="listViewLeft" HorizontalAlignment="Left" Height="405" Margin="30,145,0,0" VerticalAlignment="Top" Width="300" Background="#FFFBF3B3" Grid.Column="1"/>
-        <ListView x:ConnectionId='8' x:Name="listViewRight" HorizontalAlignment="Left" Height="405" Margin="20,145,0,0" VerticalAlignment="Top" Width="295" Background="#FFFBF3B3" Grid.Column="2"/>
-
+        <ListView x:ConnectionId='7' x:Name="listViewLeft" ItemsSource="{Binding MenuItems, Source={StaticResource globalsource}}" HorizontalAlignment="Left" Height="405" Margin="30,145,0,0" VerticalAlignment="Top" Width="300" Background="#FFFBF3B3" Grid.Column="1"/>
+        <ListView x:ConnectionId='8' x:Name="listViewRight" ItemsSource="{Binding CurrentlySelectedMenuItems, Source={StaticResource globalsource}}" HorizontalAlignment="Left" Height="405" Margin="20,145,0,0" VerticalAlignment="Top" Width="295" Background="#FFFBF3B3" Grid.Column="2"/>
+        <!--Above: Binding itemssource to the properties from DataManager-class, referencing to the key globalsource as a static resource-->
     </Grid>
 </Page>
 

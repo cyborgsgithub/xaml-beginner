@@ -5,9 +5,12 @@
     xmlns:local="using:RestaurantManager.UWindows"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:models="using:RestaurantManager.Models"
     mc:Ignorable="d">
 
-    <Grid Background="#FF0B0000">
+
+    <Grid Background="#FF0C0000">
+        
         <TextBlock x:Name="textBlock" HorizontalAlignment="Right" TextWrapping="Wrap" Text="Restaurant Manager" Margin="0,200,-163,0"  Foreground="#FFFCF7F7" Width="394" FontSize="42.667" Height="65" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
         <TextBlock x:Name="textBlock_Copy" TextWrapping="Wrap" Text="Internal Test Version" VerticalAlignment="Top" Margin="0,38,-91,0" Foreground="#FFFCF7F7" Height="60" FontSize="25" Grid.Row="1" HorizontalAlignment="Right" Width="240" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
         <Image x:Name="image" HorizontalAlignment="Center" Height="35" VerticalAlignment="Top" Width="35" Margin="5,5,472,0" Source="LargeSquareLogo.png"/>
@@ -18,6 +21,7 @@
             <RowDefinition Height="265" />
             <RowDefinition Height="76" />
             <RowDefinition Height="269"/>
+            
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="512" />
